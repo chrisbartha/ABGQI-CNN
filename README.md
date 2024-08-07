@@ -3,29 +3,19 @@
 ## Table of Contents
 
 - [Project Description](#project-description)
-- [Contributors](#contributors)
+- [Repository Features](#repository-features)
 - [Installation](#installation)
-- [Usage](#this-repository-can)
+- [List of Scripts for Manuscript Figures, Tables, and Results](#list-of-scripts-for-manuscript-figures-tables-and-results)
+- [Results Sections](#results-sections)
+- [Contributors](#contributors)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
-## Project Description
-
-Provide a brief overview of the project. Describe the problem it solves or the purpose it serves. Include any relevant background information or context.
-
-## Contributors
-
-See the list of contributors [here](CONTRIBUTORS.md).
-
-## License
-
-See the license [here](LICENSE).
-
-# Code repository for Quinn et al., 2022 <doi>
+# Project Description
+## Code repository for Quinn et al., 2022 <doi>
 
 This code repository contains R and python scripts that process data and produce results from provided intermediate products for soundscape classification and ecological analyses. This work was funded under the Soundscapes 2 Landscapes, NASA’s Citizen Science for Earth Systems Program 16-CSESP 2016-0009 and is citable using the Zenodo DOI. Note: Please be aware that underlying software, specifically for the CNN implementation, may not continue stability as python libraries are updated.
 
-### This repository can
+### Repository Features
 
 1. generate all code-based figures, tables, and numerical results in the published manuscript.
 2. be used to re-train the ABGQI-CNN
@@ -63,3 +53,11 @@ This code repository contains R and python scripts that process data and produce
 - 3.2.4: Distance to roads: 4_ABGQI_environ_analyses-R/code/1_KWDunn_tests-LULC_Roads_Annual.R
 - 3.2.5: Effect of wind speed on soundscapes: not included as contains non-public GIS data
 - 3.3 Factors affecting amount of soundcape components: 4_ABGQI_environ_analyses-R/code/3_multivariate_regression.R
+
+## Contributors
+
+See the list of contributors [here](CONTRIBUTORS.md).
+
+## License
+
+See the license [here](LICENSE).

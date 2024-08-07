@@ -2,8 +2,6 @@
 
 This repository is based on the [ABGQI-CNN](https://github.com/CQuinn8/ABGQI-CNN) by Colin Quinn et al.. The original project provides the foundational implementation of a Convolutional Neural Network (CNN) for soundscape classification.
 
-# ABGQI Sound Classification
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)

@@ -19,7 +19,7 @@ See the list of contributors [here](CONTRIBUTORS.md).
 
 ## License
 
-See the license [here](LICENSE.txt).
+See the license [here](LICENSE).
 
 # Code repository for Quinn et al., 2022 <doi>
 
